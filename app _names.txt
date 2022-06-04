@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 mario
 NFS
-=======
+
 bollywood movies
 Hollywood movies
 south Movies
->>>>>>> movies_files
+
